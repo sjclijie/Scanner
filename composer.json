@@ -1,0 +1,17 @@
+{
+    "name": "sjclijie/scaner",
+    "authors": [
+        {
+            "name": "jaylee",
+            "email": "sjclijie@vip.qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jaylee\\Test\\":"src/"
+        }
+    }
+}
